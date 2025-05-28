@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/950424997.svg)](https://doi.org/10.5281/zenodo.15532400)
+
 ## Kindlova, Byrne, et al 2025
 Scripts and source data supporting Kindlova, Byrne, et al 2025 "An allele-resolved nanopore-guided tour of the human placental methylome"
 
